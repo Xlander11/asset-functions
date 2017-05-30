@@ -54,3 +54,7 @@ Where the fonts are
 * `image-height($filename)`
 * `font-url($filename, $only_path: false)`
 * `font-files($urls...)`
+
+
+## Note
+If you want to use Compass mixins you can have it [here](https://github.com/Igosuki/compass-mixins/tree/master/lib).
